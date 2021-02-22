@@ -114,3 +114,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://clever-dolphin-3b0f4.netlify.app'
